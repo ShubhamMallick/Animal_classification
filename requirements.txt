@@ -1,0 +1,9 @@
+# Pinned dependencies for Animal Classification app
+# CPU-friendly install. If you need GPU, follow TensorFlow's official guide.
+tensorflow==2.12.0
+streamlit==1.35.0
+pillow==10.4.0
+numpy==1.24.3
+
+# Notebooks (optional)
+jupyter==1.0.0
